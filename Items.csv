@@ -1,0 +1,1001 @@
+Item_ID,Item_Name,Item_Category,Brand,Unit_Measure,Item_Description,Discontinued
+ITM-00001,Item_1,Electronics,Brand_8,kg,Description for Item_1,No
+ITM-00002,Item_2,Packaging,Brand_25,kg,Description for Item_2,No
+ITM-00003,Item_3,Furniture,Brand_48,liters,Description for Item_3,No
+ITM-00004,Item_4,Electronics,Brand_37,liters,Description for Item_4,No
+ITM-00005,Item_5,Electronics,Brand_14,kg,Description for Item_5,No
+ITM-00006,Item_6,Furniture,Brand_15,liters,Description for Item_6,No
+ITM-00007,Item_7,MRO,Brand_39,pcs,Description for Item_7,No
+ITM-00008,Item_8,Office Supplies,Brand_46,pcs,Description for Item_8,No
+ITM-00009,Item_9,Furniture,Brand_20,kg,Description for Item_9,No
+ITM-00010,Item_10,Office Supplies,Brand_29,pcs,Description for Item_10,Yes
+ITM-00011,Item_11,Packaging,Brand_23,kg,Description for Item_11,No
+ITM-00012,Item_12,Packaging,Brand_37,box,Description for Item_12,No
+ITM-00013,Item_13,Electronics,Brand_19,liters,Description for Item_13,Yes
+ITM-00014,Item_14,MRO,Brand_33,kg,Description for Item_14,No
+ITM-00015,Item_15,Furniture,Brand_42,pcs,Description for Item_15,No
+ITM-00016,Item_16,MRO,Brand_7,liters,Description for Item_16,No
+ITM-00017,Item_17,Furniture,Brand_2,pcs,Description for Item_17,No
+ITM-00018,Item_18,Electronics,Brand_32,liters,Description for Item_18,No
+ITM-00019,Item_19,Packaging,Brand_18,kg,Description for Item_19,Yes
+ITM-00020,Item_20,Office Supplies,Brand_38,liters,Description for Item_20,No
+ITM-00021,Item_21,Office Supplies,Brand_47,box,Description for Item_21,No
+ITM-00022,Item_22,Furniture,Brand_21,pcs,Description for Item_22,No
+ITM-00023,Item_23,MRO,Brand_21,box,Description for Item_23,No
+ITM-00024,Item_24,MRO,Brand_8,kg,Description for Item_24,No
+ITM-00025,Item_25,Electronics,Brand_13,liters,Description for Item_25,No
+ITM-00026,Item_26,MRO,Brand_47,pcs,Description for Item_26,No
+ITM-00027,Item_27,Office Supplies,Brand_23,box,Description for Item_27,No
+ITM-00028,Item_28,Furniture,Brand_49,pcs,Description for Item_28,No
+ITM-00029,Item_29,Electronics,Brand_41,liters,Description for Item_29,No
+ITM-00030,Item_30,Office Supplies,Brand_43,liters,Description for Item_30,No
+ITM-00031,Item_31,Packaging,Brand_47,liters,Description for Item_31,No
+ITM-00032,Item_32,Furniture,Brand_50,box,Description for Item_32,No
+ITM-00033,Item_33,MRO,Brand_5,pcs,Description for Item_33,No
+ITM-00034,Item_34,MRO,Brand_32,box,Description for Item_34,No
+ITM-00035,Item_35,Packaging,Brand_42,box,Description for Item_35,No
+ITM-00036,Item_36,MRO,Brand_38,box,Description for Item_36,Yes
+ITM-00037,Item_37,Office Supplies,Brand_19,pcs,Description for Item_37,No
+ITM-00038,Item_38,Furniture,Brand_20,pcs,Description for Item_38,No
+ITM-00039,Item_39,Packaging,Brand_3,liters,Description for Item_39,No
+ITM-00040,Item_40,Furniture,Brand_25,box,Description for Item_40,No
+ITM-00041,Item_41,Furniture,Brand_12,box,Description for Item_41,No
+ITM-00042,Item_42,Office Supplies,Brand_1,liters,Description for Item_42,Yes
+ITM-00043,Item_43,Electronics,Brand_1,kg,Description for Item_43,No
+ITM-00044,Item_44,MRO,Brand_30,pcs,Description for Item_44,Yes
+ITM-00045,Item_45,MRO,Brand_22,liters,Description for Item_45,No
+ITM-00046,Item_46,MRO,Brand_11,pcs,Description for Item_46,No
+ITM-00047,Item_47,MRO,Brand_5,pcs,Description for Item_47,No
+ITM-00048,Item_48,Office Supplies,Brand_7,kg,Description for Item_48,No
+ITM-00049,Item_49,Furniture,Brand_48,pcs,Description for Item_49,No
+ITM-00050,Item_50,Furniture,Brand_26,box,Description for Item_50,No
+ITM-00051,Item_51,Packaging,Brand_1,liters,Description for Item_51,Yes
+ITM-00052,Item_52,MRO,Brand_34,kg,Description for Item_52,No
+ITM-00053,Item_53,MRO,Brand_12,pcs,Description for Item_53,No
+ITM-00054,Item_54,Office Supplies,Brand_5,liters,Description for Item_54,No
+ITM-00055,Item_55,Packaging,Brand_1,liters,Description for Item_55,No
+ITM-00056,Item_56,MRO,Brand_5,kg,Description for Item_56,No
+ITM-00057,Item_57,Furniture,Brand_39,liters,Description for Item_57,No
+ITM-00058,Item_58,Furniture,Brand_27,pcs,Description for Item_58,No
+ITM-00059,Item_59,Electronics,Brand_15,liters,Description for Item_59,No
+ITM-00060,Item_60,Furniture,Brand_36,kg,Description for Item_60,No
+ITM-00061,Item_61,Furniture,Brand_11,liters,Description for Item_61,No
+ITM-00062,Item_62,Electronics,Brand_41,kg,Description for Item_62,No
+ITM-00063,Item_63,Office Supplies,Brand_17,kg,Description for Item_63,No
+ITM-00064,Item_64,Electronics,Brand_37,kg,Description for Item_64,No
+ITM-00065,Item_65,MRO,Brand_24,box,Description for Item_65,No
+ITM-00066,Item_66,MRO,Brand_25,liters,Description for Item_66,No
+ITM-00067,Item_67,Furniture,Brand_21,box,Description for Item_67,No
+ITM-00068,Item_68,Office Supplies,Brand_45,kg,Description for Item_68,No
+ITM-00069,Item_69,Office Supplies,Brand_35,liters,Description for Item_69,No
+ITM-00070,Item_70,MRO,Brand_3,liters,Description for Item_70,No
+ITM-00071,Item_71,Packaging,Brand_21,box,Description for Item_71,No
+ITM-00072,Item_72,Electronics,Brand_35,box,Description for Item_72,No
+ITM-00073,Item_73,Electronics,Brand_19,pcs,Description for Item_73,No
+ITM-00074,Item_74,Furniture,Brand_22,box,Description for Item_74,No
+ITM-00075,Item_75,Office Supplies,Brand_3,liters,Description for Item_75,No
+ITM-00076,Item_76,Electronics,Brand_24,box,Description for Item_76,No
+ITM-00077,Item_77,Packaging,Brand_4,box,Description for Item_77,No
+ITM-00078,Item_78,MRO,Brand_49,box,Description for Item_78,No
+ITM-00079,Item_79,MRO,Brand_48,liters,Description for Item_79,No
+ITM-00080,Item_80,Furniture,Brand_25,liters,Description for Item_80,No
+ITM-00081,Item_81,Furniture,Brand_37,kg,Description for Item_81,No
+ITM-00082,Item_82,Packaging,Brand_5,box,Description for Item_82,No
+ITM-00083,Item_83,MRO,Brand_15,box,Description for Item_83,No
+ITM-00084,Item_84,MRO,Brand_48,pcs,Description for Item_84,Yes
+ITM-00085,Item_85,MRO,Brand_29,kg,Description for Item_85,No
+ITM-00086,Item_86,Electronics,Brand_50,box,Description for Item_86,No
+ITM-00087,Item_87,Electronics,Brand_21,pcs,Description for Item_87,No
+ITM-00088,Item_88,Furniture,Brand_36,box,Description for Item_88,No
+ITM-00089,Item_89,MRO,Brand_3,pcs,Description for Item_89,No
+ITM-00090,Item_90,Packaging,Brand_43,box,Description for Item_90,No
+ITM-00091,Item_91,Furniture,Brand_13,liters,Description for Item_91,No
+ITM-00092,Item_92,Office Supplies,Brand_4,liters,Description for Item_92,No
+ITM-00093,Item_93,Furniture,Brand_14,pcs,Description for Item_93,No
+ITM-00094,Item_94,MRO,Brand_50,pcs,Description for Item_94,No
+ITM-00095,Item_95,Electronics,Brand_14,kg,Description for Item_95,Yes
+ITM-00096,Item_96,Furniture,Brand_31,box,Description for Item_96,Yes
+ITM-00097,Item_97,Electronics,Brand_22,liters,Description for Item_97,No
+ITM-00098,Item_98,Packaging,Brand_6,liters,Description for Item_98,No
+ITM-00099,Item_99,MRO,Brand_7,pcs,Description for Item_99,No
+ITM-00100,Item_100,Electronics,Brand_4,pcs,Description for Item_100,No
+ITM-00101,Item_101,Packaging,Brand_14,box,Description for Item_101,No
+ITM-00102,Item_102,Electronics,Brand_46,liters,Description for Item_102,No
+ITM-00103,Item_103,Office Supplies,Brand_9,pcs,Description for Item_103,No
+ITM-00104,Item_104,Office Supplies,Brand_40,box,Description for Item_104,No
+ITM-00105,Item_105,Packaging,Brand_25,liters,Description for Item_105,No
+ITM-00106,Item_106,Electronics,Brand_31,box,Description for Item_106,No
+ITM-00107,Item_107,Electronics,Brand_13,pcs,Description for Item_107,Yes
+ITM-00108,Item_108,MRO,Brand_3,pcs,Description for Item_108,No
+ITM-00109,Item_109,Furniture,Brand_21,box,Description for Item_109,No
+ITM-00110,Item_110,Electronics,Brand_7,liters,Description for Item_110,No
+ITM-00111,Item_111,MRO,Brand_44,pcs,Description for Item_111,No
+ITM-00112,Item_112,Packaging,Brand_41,pcs,Description for Item_112,No
+ITM-00113,Item_113,Office Supplies,Brand_27,liters,Description for Item_113,No
+ITM-00114,Item_114,Office Supplies,Brand_7,liters,Description for Item_114,No
+ITM-00115,Item_115,MRO,Brand_3,liters,Description for Item_115,No
+ITM-00116,Item_116,Furniture,Brand_22,box,Description for Item_116,No
+ITM-00117,Item_117,Office Supplies,Brand_11,box,Description for Item_117,No
+ITM-00118,Item_118,MRO,Brand_30,pcs,Description for Item_118,No
+ITM-00119,Item_119,MRO,Brand_14,pcs,Description for Item_119,No
+ITM-00120,Item_120,Electronics,Brand_49,liters,Description for Item_120,No
+ITM-00121,Item_121,MRO,Brand_11,box,Description for Item_121,No
+ITM-00122,Item_122,MRO,Brand_48,liters,Description for Item_122,No
+ITM-00123,Item_123,Furniture,Brand_7,kg,Description for Item_123,No
+ITM-00124,Item_124,Packaging,Brand_38,kg,Description for Item_124,No
+ITM-00125,Item_125,Electronics,Brand_17,liters,Description for Item_125,No
+ITM-00126,Item_126,Furniture,Brand_34,liters,Description for Item_126,No
+ITM-00127,Item_127,Electronics,Brand_40,box,Description for Item_127,No
+ITM-00128,Item_128,Office Supplies,Brand_4,kg,Description for Item_128,No
+ITM-00129,Item_129,Packaging,Brand_35,box,Description for Item_129,No
+ITM-00130,Item_130,Packaging,Brand_3,box,Description for Item_130,No
+ITM-00131,Item_131,Office Supplies,Brand_19,pcs,Description for Item_131,No
+ITM-00132,Item_132,Packaging,Brand_5,pcs,Description for Item_132,No
+ITM-00133,Item_133,MRO,Brand_43,liters,Description for Item_133,No
+ITM-00134,Item_134,Furniture,Brand_8,pcs,Description for Item_134,No
+ITM-00135,Item_135,Electronics,Brand_46,pcs,Description for Item_135,No
+ITM-00136,Item_136,Electronics,Brand_12,liters,Description for Item_136,No
+ITM-00137,Item_137,Packaging,Brand_14,kg,Description for Item_137,No
+ITM-00138,Item_138,MRO,Brand_41,box,Description for Item_138,No
+ITM-00139,Item_139,Packaging,Brand_8,box,Description for Item_139,No
+ITM-00140,Item_140,Furniture,Brand_4,pcs,Description for Item_140,No
+ITM-00141,Item_141,Packaging,Brand_21,liters,Description for Item_141,No
+ITM-00142,Item_142,Furniture,Brand_15,box,Description for Item_142,No
+ITM-00143,Item_143,Packaging,Brand_49,box,Description for Item_143,No
+ITM-00144,Item_144,MRO,Brand_17,liters,Description for Item_144,No
+ITM-00145,Item_145,Packaging,Brand_20,box,Description for Item_145,Yes
+ITM-00146,Item_146,Electronics,Brand_43,liters,Description for Item_146,No
+ITM-00147,Item_147,Packaging,Brand_15,box,Description for Item_147,No
+ITM-00148,Item_148,Office Supplies,Brand_17,liters,Description for Item_148,No
+ITM-00149,Item_149,Packaging,Brand_46,kg,Description for Item_149,No
+ITM-00150,Item_150,Packaging,Brand_20,liters,Description for Item_150,No
+ITM-00151,Item_151,Furniture,Brand_14,pcs,Description for Item_151,No
+ITM-00152,Item_152,Electronics,Brand_13,box,Description for Item_152,No
+ITM-00153,Item_153,MRO,Brand_17,liters,Description for Item_153,No
+ITM-00154,Item_154,Electronics,Brand_21,liters,Description for Item_154,No
+ITM-00155,Item_155,Packaging,Brand_14,pcs,Description for Item_155,No
+ITM-00156,Item_156,Office Supplies,Brand_24,pcs,Description for Item_156,No
+ITM-00157,Item_157,Packaging,Brand_18,box,Description for Item_157,No
+ITM-00158,Item_158,Office Supplies,Brand_22,pcs,Description for Item_158,Yes
+ITM-00159,Item_159,Furniture,Brand_22,kg,Description for Item_159,No
+ITM-00160,Item_160,Office Supplies,Brand_33,box,Description for Item_160,No
+ITM-00161,Item_161,Electronics,Brand_20,kg,Description for Item_161,No
+ITM-00162,Item_162,Furniture,Brand_43,box,Description for Item_162,No
+ITM-00163,Item_163,Office Supplies,Brand_45,kg,Description for Item_163,No
+ITM-00164,Item_164,MRO,Brand_50,pcs,Description for Item_164,No
+ITM-00165,Item_165,Electronics,Brand_37,kg,Description for Item_165,No
+ITM-00166,Item_166,Electronics,Brand_48,pcs,Description for Item_166,No
+ITM-00167,Item_167,Electronics,Brand_30,box,Description for Item_167,No
+ITM-00168,Item_168,MRO,Brand_3,box,Description for Item_168,No
+ITM-00169,Item_169,Electronics,Brand_18,box,Description for Item_169,No
+ITM-00170,Item_170,Office Supplies,Brand_5,kg,Description for Item_170,Yes
+ITM-00171,Item_171,Furniture,Brand_21,pcs,Description for Item_171,No
+ITM-00172,Item_172,Office Supplies,Brand_34,pcs,Description for Item_172,No
+ITM-00173,Item_173,MRO,Brand_36,liters,Description for Item_173,No
+ITM-00174,Item_174,Furniture,Brand_19,box,Description for Item_174,No
+ITM-00175,Item_175,Packaging,Brand_21,kg,Description for Item_175,No
+ITM-00176,Item_176,Office Supplies,Brand_49,liters,Description for Item_176,No
+ITM-00177,Item_177,MRO,Brand_25,kg,Description for Item_177,No
+ITM-00178,Item_178,Packaging,Brand_4,kg,Description for Item_178,No
+ITM-00179,Item_179,Electronics,Brand_25,pcs,Description for Item_179,No
+ITM-00180,Item_180,Packaging,Brand_34,kg,Description for Item_180,Yes
+ITM-00181,Item_181,Electronics,Brand_12,liters,Description for Item_181,No
+ITM-00182,Item_182,MRO,Brand_28,liters,Description for Item_182,No
+ITM-00183,Item_183,Office Supplies,Brand_44,liters,Description for Item_183,No
+ITM-00184,Item_184,Electronics,Brand_29,kg,Description for Item_184,No
+ITM-00185,Item_185,Furniture,Brand_20,kg,Description for Item_185,Yes
+ITM-00186,Item_186,Electronics,Brand_38,liters,Description for Item_186,No
+ITM-00187,Item_187,Office Supplies,Brand_1,kg,Description for Item_187,No
+ITM-00188,Item_188,Office Supplies,Brand_35,liters,Description for Item_188,No
+ITM-00189,Item_189,Furniture,Brand_41,pcs,Description for Item_189,No
+ITM-00190,Item_190,Electronics,Brand_28,liters,Description for Item_190,No
+ITM-00191,Item_191,Packaging,Brand_3,pcs,Description for Item_191,No
+ITM-00192,Item_192,MRO,Brand_10,pcs,Description for Item_192,No
+ITM-00193,Item_193,Furniture,Brand_25,kg,Description for Item_193,No
+ITM-00194,Item_194,MRO,Brand_43,kg,Description for Item_194,No
+ITM-00195,Item_195,Packaging,Brand_1,kg,Description for Item_195,No
+ITM-00196,Item_196,MRO,Brand_27,liters,Description for Item_196,Yes
+ITM-00197,Item_197,Office Supplies,Brand_27,kg,Description for Item_197,No
+ITM-00198,Item_198,Electronics,Brand_44,kg,Description for Item_198,No
+ITM-00199,Item_199,Electronics,Brand_25,pcs,Description for Item_199,No
+ITM-00200,Item_200,Electronics,Brand_38,kg,Description for Item_200,No
+ITM-00201,Item_201,MRO,Brand_6,pcs,Description for Item_201,No
+ITM-00202,Item_202,Office Supplies,Brand_4,box,Description for Item_202,No
+ITM-00203,Item_203,Furniture,Brand_16,liters,Description for Item_203,No
+ITM-00204,Item_204,Furniture,Brand_15,box,Description for Item_204,No
+ITM-00205,Item_205,Electronics,Brand_41,box,Description for Item_205,No
+ITM-00206,Item_206,Packaging,Brand_42,box,Description for Item_206,No
+ITM-00207,Item_207,Office Supplies,Brand_25,pcs,Description for Item_207,No
+ITM-00208,Item_208,Furniture,Brand_35,kg,Description for Item_208,No
+ITM-00209,Item_209,MRO,Brand_1,kg,Description for Item_209,No
+ITM-00210,Item_210,Packaging,Brand_13,box,Description for Item_210,No
+ITM-00211,Item_211,Electronics,Brand_11,liters,Description for Item_211,No
+ITM-00212,Item_212,Electronics,Brand_40,pcs,Description for Item_212,No
+ITM-00213,Item_213,Furniture,Brand_9,kg,Description for Item_213,No
+ITM-00214,Item_214,Electronics,Brand_12,kg,Description for Item_214,No
+ITM-00215,Item_215,Electronics,Brand_34,kg,Description for Item_215,No
+ITM-00216,Item_216,Furniture,Brand_38,box,Description for Item_216,No
+ITM-00217,Item_217,Electronics,Brand_24,box,Description for Item_217,No
+ITM-00218,Item_218,Packaging,Brand_34,box,Description for Item_218,No
+ITM-00219,Item_219,Packaging,Brand_15,pcs,Description for Item_219,Yes
+ITM-00220,Item_220,MRO,Brand_26,liters,Description for Item_220,No
+ITM-00221,Item_221,Office Supplies,Brand_25,liters,Description for Item_221,No
+ITM-00222,Item_222,MRO,Brand_6,liters,Description for Item_222,No
+ITM-00223,Item_223,Office Supplies,Brand_21,pcs,Description for Item_223,No
+ITM-00224,Item_224,Office Supplies,Brand_22,pcs,Description for Item_224,No
+ITM-00225,Item_225,Furniture,Brand_1,liters,Description for Item_225,No
+ITM-00226,Item_226,Office Supplies,Brand_25,box,Description for Item_226,No
+ITM-00227,Item_227,Electronics,Brand_44,kg,Description for Item_227,No
+ITM-00228,Item_228,Electronics,Brand_31,box,Description for Item_228,Yes
+ITM-00229,Item_229,Office Supplies,Brand_50,box,Description for Item_229,No
+ITM-00230,Item_230,MRO,Brand_39,pcs,Description for Item_230,No
+ITM-00231,Item_231,Electronics,Brand_46,pcs,Description for Item_231,No
+ITM-00232,Item_232,Office Supplies,Brand_32,box,Description for Item_232,No
+ITM-00233,Item_233,Furniture,Brand_48,pcs,Description for Item_233,No
+ITM-00234,Item_234,Packaging,Brand_18,liters,Description for Item_234,No
+ITM-00235,Item_235,Electronics,Brand_22,liters,Description for Item_235,No
+ITM-00236,Item_236,Office Supplies,Brand_30,box,Description for Item_236,No
+ITM-00237,Item_237,Electronics,Brand_18,pcs,Description for Item_237,No
+ITM-00238,Item_238,Packaging,Brand_3,liters,Description for Item_238,No
+ITM-00239,Item_239,Furniture,Brand_37,pcs,Description for Item_239,No
+ITM-00240,Item_240,Packaging,Brand_50,pcs,Description for Item_240,No
+ITM-00241,Item_241,Office Supplies,Brand_40,liters,Description for Item_241,No
+ITM-00242,Item_242,Office Supplies,Brand_23,liters,Description for Item_242,Yes
+ITM-00243,Item_243,Electronics,Brand_32,kg,Description for Item_243,No
+ITM-00244,Item_244,Office Supplies,Brand_26,box,Description for Item_244,No
+ITM-00245,Item_245,Furniture,Brand_5,kg,Description for Item_245,No
+ITM-00246,Item_246,Packaging,Brand_12,liters,Description for Item_246,No
+ITM-00247,Item_247,Office Supplies,Brand_37,kg,Description for Item_247,No
+ITM-00248,Item_248,Packaging,Brand_25,pcs,Description for Item_248,No
+ITM-00249,Item_249,MRO,Brand_46,liters,Description for Item_249,No
+ITM-00250,Item_250,Packaging,Brand_14,pcs,Description for Item_250,No
+ITM-00251,Item_251,Office Supplies,Brand_12,kg,Description for Item_251,No
+ITM-00252,Item_252,Office Supplies,Brand_37,pcs,Description for Item_252,No
+ITM-00253,Item_253,Packaging,Brand_28,pcs,Description for Item_253,No
+ITM-00254,Item_254,Furniture,Brand_11,liters,Description for Item_254,Yes
+ITM-00255,Item_255,MRO,Brand_5,kg,Description for Item_255,No
+ITM-00256,Item_256,MRO,Brand_17,liters,Description for Item_256,No
+ITM-00257,Item_257,MRO,Brand_8,liters,Description for Item_257,No
+ITM-00258,Item_258,Office Supplies,Brand_47,box,Description for Item_258,No
+ITM-00259,Item_259,Packaging,Brand_15,liters,Description for Item_259,No
+ITM-00260,Item_260,Office Supplies,Brand_34,pcs,Description for Item_260,No
+ITM-00261,Item_261,Furniture,Brand_42,box,Description for Item_261,No
+ITM-00262,Item_262,MRO,Brand_10,kg,Description for Item_262,No
+ITM-00263,Item_263,MRO,Brand_26,box,Description for Item_263,No
+ITM-00264,Item_264,Furniture,Brand_35,pcs,Description for Item_264,No
+ITM-00265,Item_265,MRO,Brand_8,box,Description for Item_265,No
+ITM-00266,Item_266,Packaging,Brand_45,box,Description for Item_266,Yes
+ITM-00267,Item_267,Furniture,Brand_19,kg,Description for Item_267,No
+ITM-00268,Item_268,Electronics,Brand_33,pcs,Description for Item_268,No
+ITM-00269,Item_269,Furniture,Brand_17,liters,Description for Item_269,Yes
+ITM-00270,Item_270,Electronics,Brand_21,liters,Description for Item_270,No
+ITM-00271,Item_271,Furniture,Brand_14,box,Description for Item_271,No
+ITM-00272,Item_272,Furniture,Brand_39,kg,Description for Item_272,No
+ITM-00273,Item_273,Office Supplies,Brand_12,liters,Description for Item_273,No
+ITM-00274,Item_274,Furniture,Brand_17,kg,Description for Item_274,No
+ITM-00275,Item_275,Office Supplies,Brand_25,box,Description for Item_275,No
+ITM-00276,Item_276,Office Supplies,Brand_18,kg,Description for Item_276,No
+ITM-00277,Item_277,Office Supplies,Brand_13,kg,Description for Item_277,No
+ITM-00278,Item_278,Office Supplies,Brand_18,kg,Description for Item_278,No
+ITM-00279,Item_279,Furniture,Brand_27,liters,Description for Item_279,Yes
+ITM-00280,Item_280,MRO,Brand_31,box,Description for Item_280,No
+ITM-00281,Item_281,Furniture,Brand_10,liters,Description for Item_281,No
+ITM-00282,Item_282,Electronics,Brand_18,pcs,Description for Item_282,No
+ITM-00283,Item_283,Furniture,Brand_3,box,Description for Item_283,No
+ITM-00284,Item_284,Furniture,Brand_22,box,Description for Item_284,No
+ITM-00285,Item_285,Office Supplies,Brand_21,pcs,Description for Item_285,No
+ITM-00286,Item_286,Packaging,Brand_24,kg,Description for Item_286,No
+ITM-00287,Item_287,Furniture,Brand_31,box,Description for Item_287,No
+ITM-00288,Item_288,Packaging,Brand_9,box,Description for Item_288,No
+ITM-00289,Item_289,Packaging,Brand_24,liters,Description for Item_289,No
+ITM-00290,Item_290,Furniture,Brand_15,box,Description for Item_290,No
+ITM-00291,Item_291,MRO,Brand_11,kg,Description for Item_291,Yes
+ITM-00292,Item_292,Furniture,Brand_3,box,Description for Item_292,No
+ITM-00293,Item_293,Packaging,Brand_5,box,Description for Item_293,No
+ITM-00294,Item_294,Electronics,Brand_39,liters,Description for Item_294,No
+ITM-00295,Item_295,MRO,Brand_2,box,Description for Item_295,No
+ITM-00296,Item_296,Office Supplies,Brand_36,pcs,Description for Item_296,No
+ITM-00297,Item_297,Furniture,Brand_44,liters,Description for Item_297,No
+ITM-00298,Item_298,MRO,Brand_43,box,Description for Item_298,No
+ITM-00299,Item_299,Packaging,Brand_50,liters,Description for Item_299,No
+ITM-00300,Item_300,Packaging,Brand_13,pcs,Description for Item_300,Yes
+ITM-00301,Item_301,Furniture,Brand_36,kg,Description for Item_301,No
+ITM-00302,Item_302,Furniture,Brand_18,pcs,Description for Item_302,No
+ITM-00303,Item_303,Office Supplies,Brand_46,kg,Description for Item_303,No
+ITM-00304,Item_304,Office Supplies,Brand_50,liters,Description for Item_304,No
+ITM-00305,Item_305,MRO,Brand_10,pcs,Description for Item_305,No
+ITM-00306,Item_306,Electronics,Brand_11,liters,Description for Item_306,No
+ITM-00307,Item_307,Furniture,Brand_20,kg,Description for Item_307,No
+ITM-00308,Item_308,Packaging,Brand_1,pcs,Description for Item_308,No
+ITM-00309,Item_309,MRO,Brand_30,kg,Description for Item_309,No
+ITM-00310,Item_310,Packaging,Brand_15,box,Description for Item_310,Yes
+ITM-00311,Item_311,Furniture,Brand_7,kg,Description for Item_311,No
+ITM-00312,Item_312,Office Supplies,Brand_20,pcs,Description for Item_312,No
+ITM-00313,Item_313,Electronics,Brand_39,kg,Description for Item_313,No
+ITM-00314,Item_314,Furniture,Brand_28,pcs,Description for Item_314,No
+ITM-00315,Item_315,Electronics,Brand_35,box,Description for Item_315,No
+ITM-00316,Item_316,MRO,Brand_1,pcs,Description for Item_316,No
+ITM-00317,Item_317,Furniture,Brand_50,pcs,Description for Item_317,Yes
+ITM-00318,Item_318,Electronics,Brand_26,pcs,Description for Item_318,No
+ITM-00319,Item_319,Packaging,Brand_32,kg,Description for Item_319,No
+ITM-00320,Item_320,MRO,Brand_42,kg,Description for Item_320,No
+ITM-00321,Item_321,Office Supplies,Brand_25,kg,Description for Item_321,No
+ITM-00322,Item_322,Packaging,Brand_48,box,Description for Item_322,No
+ITM-00323,Item_323,Office Supplies,Brand_23,kg,Description for Item_323,No
+ITM-00324,Item_324,Electronics,Brand_31,liters,Description for Item_324,No
+ITM-00325,Item_325,Furniture,Brand_37,pcs,Description for Item_325,No
+ITM-00326,Item_326,Electronics,Brand_6,liters,Description for Item_326,No
+ITM-00327,Item_327,Office Supplies,Brand_20,pcs,Description for Item_327,No
+ITM-00328,Item_328,Furniture,Brand_1,pcs,Description for Item_328,No
+ITM-00329,Item_329,Office Supplies,Brand_12,kg,Description for Item_329,No
+ITM-00330,Item_330,Electronics,Brand_47,kg,Description for Item_330,No
+ITM-00331,Item_331,Furniture,Brand_4,box,Description for Item_331,No
+ITM-00332,Item_332,MRO,Brand_20,liters,Description for Item_332,No
+ITM-00333,Item_333,Packaging,Brand_50,liters,Description for Item_333,No
+ITM-00334,Item_334,Office Supplies,Brand_3,liters,Description for Item_334,Yes
+ITM-00335,Item_335,Office Supplies,Brand_19,kg,Description for Item_335,No
+ITM-00336,Item_336,Packaging,Brand_8,box,Description for Item_336,Yes
+ITM-00337,Item_337,MRO,Brand_50,pcs,Description for Item_337,No
+ITM-00338,Item_338,Electronics,Brand_8,kg,Description for Item_338,No
+ITM-00339,Item_339,Electronics,Brand_31,pcs,Description for Item_339,No
+ITM-00340,Item_340,Electronics,Brand_38,kg,Description for Item_340,No
+ITM-00341,Item_341,MRO,Brand_19,pcs,Description for Item_341,No
+ITM-00342,Item_342,MRO,Brand_27,liters,Description for Item_342,No
+ITM-00343,Item_343,Office Supplies,Brand_31,liters,Description for Item_343,No
+ITM-00344,Item_344,MRO,Brand_39,box,Description for Item_344,No
+ITM-00345,Item_345,Electronics,Brand_6,pcs,Description for Item_345,No
+ITM-00346,Item_346,Furniture,Brand_37,pcs,Description for Item_346,No
+ITM-00347,Item_347,Electronics,Brand_30,pcs,Description for Item_347,Yes
+ITM-00348,Item_348,Furniture,Brand_30,box,Description for Item_348,No
+ITM-00349,Item_349,Office Supplies,Brand_26,box,Description for Item_349,No
+ITM-00350,Item_350,Packaging,Brand_9,kg,Description for Item_350,No
+ITM-00351,Item_351,Electronics,Brand_1,pcs,Description for Item_351,No
+ITM-00352,Item_352,MRO,Brand_16,liters,Description for Item_352,No
+ITM-00353,Item_353,Office Supplies,Brand_39,pcs,Description for Item_353,No
+ITM-00354,Item_354,Packaging,Brand_38,kg,Description for Item_354,No
+ITM-00355,Item_355,Electronics,Brand_18,kg,Description for Item_355,No
+ITM-00356,Item_356,Electronics,Brand_24,pcs,Description for Item_356,No
+ITM-00357,Item_357,Electronics,Brand_26,pcs,Description for Item_357,No
+ITM-00358,Item_358,Office Supplies,Brand_5,box,Description for Item_358,No
+ITM-00359,Item_359,Office Supplies,Brand_38,kg,Description for Item_359,No
+ITM-00360,Item_360,Packaging,Brand_37,box,Description for Item_360,No
+ITM-00361,Item_361,Office Supplies,Brand_47,liters,Description for Item_361,No
+ITM-00362,Item_362,Packaging,Brand_24,box,Description for Item_362,No
+ITM-00363,Item_363,MRO,Brand_17,pcs,Description for Item_363,No
+ITM-00364,Item_364,MRO,Brand_25,pcs,Description for Item_364,No
+ITM-00365,Item_365,Packaging,Brand_1,liters,Description for Item_365,No
+ITM-00366,Item_366,Furniture,Brand_20,liters,Description for Item_366,No
+ITM-00367,Item_367,MRO,Brand_4,liters,Description for Item_367,No
+ITM-00368,Item_368,Packaging,Brand_24,box,Description for Item_368,Yes
+ITM-00369,Item_369,MRO,Brand_48,box,Description for Item_369,No
+ITM-00370,Item_370,Electronics,Brand_38,box,Description for Item_370,Yes
+ITM-00371,Item_371,Furniture,Brand_20,liters,Description for Item_371,No
+ITM-00372,Item_372,Packaging,Brand_25,liters,Description for Item_372,No
+ITM-00373,Item_373,Electronics,Brand_23,pcs,Description for Item_373,No
+ITM-00374,Item_374,MRO,Brand_35,kg,Description for Item_374,No
+ITM-00375,Item_375,MRO,Brand_49,kg,Description for Item_375,No
+ITM-00376,Item_376,Electronics,Brand_4,box,Description for Item_376,No
+ITM-00377,Item_377,Office Supplies,Brand_48,pcs,Description for Item_377,No
+ITM-00378,Item_378,Furniture,Brand_46,liters,Description for Item_378,No
+ITM-00379,Item_379,MRO,Brand_38,kg,Description for Item_379,No
+ITM-00380,Item_380,Electronics,Brand_48,pcs,Description for Item_380,No
+ITM-00381,Item_381,Electronics,Brand_21,liters,Description for Item_381,No
+ITM-00382,Item_382,Electronics,Brand_28,kg,Description for Item_382,No
+ITM-00383,Item_383,MRO,Brand_33,liters,Description for Item_383,No
+ITM-00384,Item_384,MRO,Brand_41,box,Description for Item_384,No
+ITM-00385,Item_385,Office Supplies,Brand_8,box,Description for Item_385,No
+ITM-00386,Item_386,Office Supplies,Brand_47,pcs,Description for Item_386,Yes
+ITM-00387,Item_387,MRO,Brand_31,kg,Description for Item_387,No
+ITM-00388,Item_388,Furniture,Brand_42,liters,Description for Item_388,No
+ITM-00389,Item_389,Electronics,Brand_14,liters,Description for Item_389,No
+ITM-00390,Item_390,Electronics,Brand_39,box,Description for Item_390,No
+ITM-00391,Item_391,Packaging,Brand_31,box,Description for Item_391,Yes
+ITM-00392,Item_392,Packaging,Brand_4,kg,Description for Item_392,No
+ITM-00393,Item_393,Furniture,Brand_10,liters,Description for Item_393,No
+ITM-00394,Item_394,Furniture,Brand_19,pcs,Description for Item_394,No
+ITM-00395,Item_395,Electronics,Brand_8,kg,Description for Item_395,No
+ITM-00396,Item_396,MRO,Brand_6,box,Description for Item_396,No
+ITM-00397,Item_397,Office Supplies,Brand_45,pcs,Description for Item_397,No
+ITM-00398,Item_398,Packaging,Brand_10,kg,Description for Item_398,No
+ITM-00399,Item_399,Packaging,Brand_40,box,Description for Item_399,No
+ITM-00400,Item_400,Office Supplies,Brand_8,liters,Description for Item_400,No
+ITM-00401,Item_401,Office Supplies,Brand_38,pcs,Description for Item_401,No
+ITM-00402,Item_402,Office Supplies,Brand_28,liters,Description for Item_402,No
+ITM-00403,Item_403,Office Supplies,Brand_36,kg,Description for Item_403,No
+ITM-00404,Item_404,Furniture,Brand_41,kg,Description for Item_404,Yes
+ITM-00405,Item_405,Office Supplies,Brand_5,liters,Description for Item_405,No
+ITM-00406,Item_406,Office Supplies,Brand_20,kg,Description for Item_406,No
+ITM-00407,Item_407,Furniture,Brand_7,kg,Description for Item_407,No
+ITM-00408,Item_408,Furniture,Brand_38,box,Description for Item_408,No
+ITM-00409,Item_409,Electronics,Brand_23,pcs,Description for Item_409,Yes
+ITM-00410,Item_410,Furniture,Brand_16,pcs,Description for Item_410,No
+ITM-00411,Item_411,Office Supplies,Brand_19,pcs,Description for Item_411,No
+ITM-00412,Item_412,Furniture,Brand_5,liters,Description for Item_412,No
+ITM-00413,Item_413,MRO,Brand_34,box,Description for Item_413,No
+ITM-00414,Item_414,Electronics,Brand_4,kg,Description for Item_414,No
+ITM-00415,Item_415,Packaging,Brand_17,kg,Description for Item_415,No
+ITM-00416,Item_416,Electronics,Brand_19,pcs,Description for Item_416,No
+ITM-00417,Item_417,Electronics,Brand_29,pcs,Description for Item_417,No
+ITM-00418,Item_418,Furniture,Brand_19,liters,Description for Item_418,No
+ITM-00419,Item_419,Office Supplies,Brand_4,kg,Description for Item_419,No
+ITM-00420,Item_420,MRO,Brand_37,liters,Description for Item_420,No
+ITM-00421,Item_421,Packaging,Brand_30,liters,Description for Item_421,No
+ITM-00422,Item_422,Electronics,Brand_26,kg,Description for Item_422,No
+ITM-00423,Item_423,Electronics,Brand_12,kg,Description for Item_423,No
+ITM-00424,Item_424,MRO,Brand_13,kg,Description for Item_424,No
+ITM-00425,Item_425,Electronics,Brand_41,pcs,Description for Item_425,No
+ITM-00426,Item_426,Office Supplies,Brand_38,box,Description for Item_426,No
+ITM-00427,Item_427,MRO,Brand_31,liters,Description for Item_427,No
+ITM-00428,Item_428,MRO,Brand_22,liters,Description for Item_428,No
+ITM-00429,Item_429,Packaging,Brand_5,liters,Description for Item_429,No
+ITM-00430,Item_430,Packaging,Brand_42,box,Description for Item_430,No
+ITM-00431,Item_431,MRO,Brand_32,kg,Description for Item_431,No
+ITM-00432,Item_432,Furniture,Brand_47,liters,Description for Item_432,No
+ITM-00433,Item_433,Furniture,Brand_18,pcs,Description for Item_433,No
+ITM-00434,Item_434,Electronics,Brand_44,pcs,Description for Item_434,Yes
+ITM-00435,Item_435,Office Supplies,Brand_24,kg,Description for Item_435,No
+ITM-00436,Item_436,Office Supplies,Brand_23,box,Description for Item_436,No
+ITM-00437,Item_437,MRO,Brand_44,pcs,Description for Item_437,No
+ITM-00438,Item_438,MRO,Brand_6,pcs,Description for Item_438,No
+ITM-00439,Item_439,Packaging,Brand_8,liters,Description for Item_439,Yes
+ITM-00440,Item_440,Office Supplies,Brand_6,pcs,Description for Item_440,No
+ITM-00441,Item_441,MRO,Brand_34,liters,Description for Item_441,No
+ITM-00442,Item_442,Electronics,Brand_44,kg,Description for Item_442,No
+ITM-00443,Item_443,MRO,Brand_31,box,Description for Item_443,Yes
+ITM-00444,Item_444,Packaging,Brand_13,kg,Description for Item_444,No
+ITM-00445,Item_445,Electronics,Brand_47,liters,Description for Item_445,No
+ITM-00446,Item_446,Furniture,Brand_4,pcs,Description for Item_446,No
+ITM-00447,Item_447,Electronics,Brand_25,box,Description for Item_447,No
+ITM-00448,Item_448,Furniture,Brand_4,liters,Description for Item_448,No
+ITM-00449,Item_449,Packaging,Brand_7,pcs,Description for Item_449,No
+ITM-00450,Item_450,Electronics,Brand_3,kg,Description for Item_450,No
+ITM-00451,Item_451,Electronics,Brand_20,pcs,Description for Item_451,No
+ITM-00452,Item_452,Electronics,Brand_25,liters,Description for Item_452,No
+ITM-00453,Item_453,Office Supplies,Brand_48,box,Description for Item_453,Yes
+ITM-00454,Item_454,MRO,Brand_26,kg,Description for Item_454,No
+ITM-00455,Item_455,MRO,Brand_3,pcs,Description for Item_455,No
+ITM-00456,Item_456,MRO,Brand_21,pcs,Description for Item_456,No
+ITM-00457,Item_457,Office Supplies,Brand_7,box,Description for Item_457,No
+ITM-00458,Item_458,Office Supplies,Brand_4,pcs,Description for Item_458,No
+ITM-00459,Item_459,Furniture,Brand_50,box,Description for Item_459,No
+ITM-00460,Item_460,MRO,Brand_12,pcs,Description for Item_460,Yes
+ITM-00461,Item_461,Furniture,Brand_19,pcs,Description for Item_461,No
+ITM-00462,Item_462,Office Supplies,Brand_9,liters,Description for Item_462,Yes
+ITM-00463,Item_463,Packaging,Brand_17,box,Description for Item_463,No
+ITM-00464,Item_464,Office Supplies,Brand_35,box,Description for Item_464,No
+ITM-00465,Item_465,Electronics,Brand_43,liters,Description for Item_465,No
+ITM-00466,Item_466,Office Supplies,Brand_4,pcs,Description for Item_466,No
+ITM-00467,Item_467,MRO,Brand_33,pcs,Description for Item_467,No
+ITM-00468,Item_468,Furniture,Brand_23,box,Description for Item_468,Yes
+ITM-00469,Item_469,Furniture,Brand_16,kg,Description for Item_469,No
+ITM-00470,Item_470,Furniture,Brand_2,pcs,Description for Item_470,No
+ITM-00471,Item_471,Electronics,Brand_14,pcs,Description for Item_471,No
+ITM-00472,Item_472,MRO,Brand_30,kg,Description for Item_472,No
+ITM-00473,Item_473,Electronics,Brand_20,kg,Description for Item_473,No
+ITM-00474,Item_474,Office Supplies,Brand_4,liters,Description for Item_474,No
+ITM-00475,Item_475,Electronics,Brand_37,liters,Description for Item_475,No
+ITM-00476,Item_476,Furniture,Brand_24,pcs,Description for Item_476,No
+ITM-00477,Item_477,MRO,Brand_28,kg,Description for Item_477,Yes
+ITM-00478,Item_478,Office Supplies,Brand_39,kg,Description for Item_478,No
+ITM-00479,Item_479,Furniture,Brand_22,kg,Description for Item_479,No
+ITM-00480,Item_480,Furniture,Brand_26,liters,Description for Item_480,No
+ITM-00481,Item_481,Electronics,Brand_27,liters,Description for Item_481,No
+ITM-00482,Item_482,Furniture,Brand_35,pcs,Description for Item_482,No
+ITM-00483,Item_483,Electronics,Brand_18,box,Description for Item_483,No
+ITM-00484,Item_484,Electronics,Brand_44,liters,Description for Item_484,No
+ITM-00485,Item_485,Packaging,Brand_36,pcs,Description for Item_485,No
+ITM-00486,Item_486,Office Supplies,Brand_37,box,Description for Item_486,No
+ITM-00487,Item_487,Furniture,Brand_12,pcs,Description for Item_487,No
+ITM-00488,Item_488,MRO,Brand_22,kg,Description for Item_488,No
+ITM-00489,Item_489,Packaging,Brand_48,kg,Description for Item_489,No
+ITM-00490,Item_490,Furniture,Brand_34,liters,Description for Item_490,No
+ITM-00491,Item_491,Furniture,Brand_48,liters,Description for Item_491,No
+ITM-00492,Item_492,Packaging,Brand_45,box,Description for Item_492,No
+ITM-00493,Item_493,Electronics,Brand_37,liters,Description for Item_493,No
+ITM-00494,Item_494,Office Supplies,Brand_44,box,Description for Item_494,No
+ITM-00495,Item_495,Electronics,Brand_30,liters,Description for Item_495,No
+ITM-00496,Item_496,Office Supplies,Brand_9,liters,Description for Item_496,No
+ITM-00497,Item_497,MRO,Brand_38,liters,Description for Item_497,No
+ITM-00498,Item_498,Electronics,Brand_33,liters,Description for Item_498,No
+ITM-00499,Item_499,Furniture,Brand_12,box,Description for Item_499,Yes
+ITM-00500,Item_500,MRO,Brand_24,pcs,Description for Item_500,Yes
+ITM-00501,Item_501,Furniture,Brand_2,kg,Description for Item_501,No
+ITM-00502,Item_502,Office Supplies,Brand_22,pcs,Description for Item_502,No
+ITM-00503,Item_503,Electronics,Brand_22,pcs,Description for Item_503,No
+ITM-00504,Item_504,Packaging,Brand_35,box,Description for Item_504,No
+ITM-00505,Item_505,Electronics,Brand_36,box,Description for Item_505,No
+ITM-00506,Item_506,Furniture,Brand_20,liters,Description for Item_506,No
+ITM-00507,Item_507,MRO,Brand_20,liters,Description for Item_507,No
+ITM-00508,Item_508,Office Supplies,Brand_34,pcs,Description for Item_508,Yes
+ITM-00509,Item_509,Packaging,Brand_38,liters,Description for Item_509,No
+ITM-00510,Item_510,Furniture,Brand_16,box,Description for Item_510,No
+ITM-00511,Item_511,Furniture,Brand_27,kg,Description for Item_511,No
+ITM-00512,Item_512,MRO,Brand_23,pcs,Description for Item_512,No
+ITM-00513,Item_513,Furniture,Brand_4,pcs,Description for Item_513,No
+ITM-00514,Item_514,Furniture,Brand_22,kg,Description for Item_514,No
+ITM-00515,Item_515,Furniture,Brand_29,liters,Description for Item_515,No
+ITM-00516,Item_516,MRO,Brand_19,liters,Description for Item_516,No
+ITM-00517,Item_517,Electronics,Brand_31,kg,Description for Item_517,No
+ITM-00518,Item_518,Packaging,Brand_28,kg,Description for Item_518,No
+ITM-00519,Item_519,MRO,Brand_15,liters,Description for Item_519,No
+ITM-00520,Item_520,Electronics,Brand_48,pcs,Description for Item_520,No
+ITM-00521,Item_521,Electronics,Brand_49,box,Description for Item_521,No
+ITM-00522,Item_522,MRO,Brand_24,pcs,Description for Item_522,No
+ITM-00523,Item_523,Furniture,Brand_11,pcs,Description for Item_523,No
+ITM-00524,Item_524,Furniture,Brand_41,pcs,Description for Item_524,No
+ITM-00525,Item_525,Office Supplies,Brand_35,pcs,Description for Item_525,No
+ITM-00526,Item_526,Office Supplies,Brand_42,box,Description for Item_526,No
+ITM-00527,Item_527,Packaging,Brand_5,pcs,Description for Item_527,Yes
+ITM-00528,Item_528,Electronics,Brand_47,liters,Description for Item_528,No
+ITM-00529,Item_529,Office Supplies,Brand_16,liters,Description for Item_529,No
+ITM-00530,Item_530,MRO,Brand_37,liters,Description for Item_530,No
+ITM-00531,Item_531,Packaging,Brand_26,kg,Description for Item_531,No
+ITM-00532,Item_532,Furniture,Brand_39,liters,Description for Item_532,No
+ITM-00533,Item_533,Electronics,Brand_45,box,Description for Item_533,No
+ITM-00534,Item_534,MRO,Brand_49,box,Description for Item_534,No
+ITM-00535,Item_535,Packaging,Brand_50,pcs,Description for Item_535,No
+ITM-00536,Item_536,Furniture,Brand_46,liters,Description for Item_536,No
+ITM-00537,Item_537,Furniture,Brand_35,liters,Description for Item_537,No
+ITM-00538,Item_538,Furniture,Brand_36,liters,Description for Item_538,No
+ITM-00539,Item_539,MRO,Brand_11,pcs,Description for Item_539,No
+ITM-00540,Item_540,Electronics,Brand_39,box,Description for Item_540,Yes
+ITM-00541,Item_541,Electronics,Brand_1,liters,Description for Item_541,No
+ITM-00542,Item_542,Office Supplies,Brand_27,liters,Description for Item_542,No
+ITM-00543,Item_543,Furniture,Brand_19,box,Description for Item_543,No
+ITM-00544,Item_544,Furniture,Brand_1,liters,Description for Item_544,No
+ITM-00545,Item_545,MRO,Brand_15,liters,Description for Item_545,No
+ITM-00546,Item_546,Packaging,Brand_14,liters,Description for Item_546,Yes
+ITM-00547,Item_547,Furniture,Brand_48,box,Description for Item_547,No
+ITM-00548,Item_548,Office Supplies,Brand_42,kg,Description for Item_548,No
+ITM-00549,Item_549,Furniture,Brand_27,kg,Description for Item_549,No
+ITM-00550,Item_550,Office Supplies,Brand_37,box,Description for Item_550,No
+ITM-00551,Item_551,Electronics,Brand_35,box,Description for Item_551,No
+ITM-00552,Item_552,Electronics,Brand_42,box,Description for Item_552,No
+ITM-00553,Item_553,Office Supplies,Brand_2,liters,Description for Item_553,No
+ITM-00554,Item_554,Furniture,Brand_3,liters,Description for Item_554,No
+ITM-00555,Item_555,Electronics,Brand_7,box,Description for Item_555,No
+ITM-00556,Item_556,Office Supplies,Brand_2,kg,Description for Item_556,No
+ITM-00557,Item_557,Electronics,Brand_40,pcs,Description for Item_557,Yes
+ITM-00558,Item_558,MRO,Brand_21,box,Description for Item_558,No
+ITM-00559,Item_559,MRO,Brand_32,kg,Description for Item_559,No
+ITM-00560,Item_560,Electronics,Brand_35,liters,Description for Item_560,Yes
+ITM-00561,Item_561,Furniture,Brand_27,kg,Description for Item_561,No
+ITM-00562,Item_562,MRO,Brand_48,box,Description for Item_562,No
+ITM-00563,Item_563,Electronics,Brand_50,liters,Description for Item_563,No
+ITM-00564,Item_564,Electronics,Brand_29,kg,Description for Item_564,No
+ITM-00565,Item_565,Electronics,Brand_37,kg,Description for Item_565,No
+ITM-00566,Item_566,Office Supplies,Brand_5,kg,Description for Item_566,Yes
+ITM-00567,Item_567,MRO,Brand_16,kg,Description for Item_567,No
+ITM-00568,Item_568,Furniture,Brand_47,liters,Description for Item_568,No
+ITM-00569,Item_569,MRO,Brand_27,liters,Description for Item_569,No
+ITM-00570,Item_570,Electronics,Brand_7,pcs,Description for Item_570,No
+ITM-00571,Item_571,Electronics,Brand_21,kg,Description for Item_571,No
+ITM-00572,Item_572,MRO,Brand_11,kg,Description for Item_572,No
+ITM-00573,Item_573,Packaging,Brand_30,liters,Description for Item_573,No
+ITM-00574,Item_574,Office Supplies,Brand_39,pcs,Description for Item_574,No
+ITM-00575,Item_575,Electronics,Brand_6,liters,Description for Item_575,No
+ITM-00576,Item_576,Furniture,Brand_46,pcs,Description for Item_576,No
+ITM-00577,Item_577,Office Supplies,Brand_39,box,Description for Item_577,No
+ITM-00578,Item_578,Packaging,Brand_1,kg,Description for Item_578,Yes
+ITM-00579,Item_579,Office Supplies,Brand_11,box,Description for Item_579,No
+ITM-00580,Item_580,Furniture,Brand_42,box,Description for Item_580,No
+ITM-00581,Item_581,Electronics,Brand_12,liters,Description for Item_581,No
+ITM-00582,Item_582,MRO,Brand_29,liters,Description for Item_582,No
+ITM-00583,Item_583,Electronics,Brand_16,box,Description for Item_583,No
+ITM-00584,Item_584,Packaging,Brand_6,kg,Description for Item_584,No
+ITM-00585,Item_585,Packaging,Brand_16,pcs,Description for Item_585,No
+ITM-00586,Item_586,Office Supplies,Brand_35,box,Description for Item_586,No
+ITM-00587,Item_587,Office Supplies,Brand_44,liters,Description for Item_587,No
+ITM-00588,Item_588,Electronics,Brand_18,pcs,Description for Item_588,No
+ITM-00589,Item_589,Office Supplies,Brand_20,liters,Description for Item_589,No
+ITM-00590,Item_590,Electronics,Brand_42,liters,Description for Item_590,Yes
+ITM-00591,Item_591,Packaging,Brand_3,kg,Description for Item_591,Yes
+ITM-00592,Item_592,Furniture,Brand_16,liters,Description for Item_592,No
+ITM-00593,Item_593,Packaging,Brand_21,kg,Description for Item_593,No
+ITM-00594,Item_594,Office Supplies,Brand_22,liters,Description for Item_594,No
+ITM-00595,Item_595,MRO,Brand_15,kg,Description for Item_595,No
+ITM-00596,Item_596,MRO,Brand_13,liters,Description for Item_596,No
+ITM-00597,Item_597,Electronics,Brand_13,liters,Description for Item_597,No
+ITM-00598,Item_598,Office Supplies,Brand_50,kg,Description for Item_598,No
+ITM-00599,Item_599,Packaging,Brand_33,box,Description for Item_599,No
+ITM-00600,Item_600,Electronics,Brand_29,liters,Description for Item_600,Yes
+ITM-00601,Item_601,Packaging,Brand_25,kg,Description for Item_601,No
+ITM-00602,Item_602,Packaging,Brand_45,pcs,Description for Item_602,No
+ITM-00603,Item_603,MRO,Brand_23,liters,Description for Item_603,No
+ITM-00604,Item_604,Office Supplies,Brand_13,box,Description for Item_604,No
+ITM-00605,Item_605,Electronics,Brand_37,liters,Description for Item_605,Yes
+ITM-00606,Item_606,Packaging,Brand_47,kg,Description for Item_606,Yes
+ITM-00607,Item_607,Packaging,Brand_1,liters,Description for Item_607,No
+ITM-00608,Item_608,Electronics,Brand_49,liters,Description for Item_608,No
+ITM-00609,Item_609,Office Supplies,Brand_38,pcs,Description for Item_609,No
+ITM-00610,Item_610,Furniture,Brand_18,box,Description for Item_610,No
+ITM-00611,Item_611,Office Supplies,Brand_41,liters,Description for Item_611,No
+ITM-00612,Item_612,Electronics,Brand_11,kg,Description for Item_612,No
+ITM-00613,Item_613,Office Supplies,Brand_21,kg,Description for Item_613,No
+ITM-00614,Item_614,Packaging,Brand_40,box,Description for Item_614,No
+ITM-00615,Item_615,Packaging,Brand_37,pcs,Description for Item_615,No
+ITM-00616,Item_616,Electronics,Brand_38,liters,Description for Item_616,No
+ITM-00617,Item_617,Electronics,Brand_40,kg,Description for Item_617,No
+ITM-00618,Item_618,Packaging,Brand_28,box,Description for Item_618,No
+ITM-00619,Item_619,Electronics,Brand_27,box,Description for Item_619,No
+ITM-00620,Item_620,Office Supplies,Brand_24,liters,Description for Item_620,No
+ITM-00621,Item_621,MRO,Brand_17,box,Description for Item_621,No
+ITM-00622,Item_622,Packaging,Brand_19,liters,Description for Item_622,No
+ITM-00623,Item_623,Packaging,Brand_13,pcs,Description for Item_623,Yes
+ITM-00624,Item_624,Electronics,Brand_21,box,Description for Item_624,No
+ITM-00625,Item_625,Office Supplies,Brand_28,liters,Description for Item_625,No
+ITM-00626,Item_626,Electronics,Brand_9,box,Description for Item_626,No
+ITM-00627,Item_627,Packaging,Brand_5,kg,Description for Item_627,No
+ITM-00628,Item_628,Packaging,Brand_16,liters,Description for Item_628,No
+ITM-00629,Item_629,MRO,Brand_50,kg,Description for Item_629,No
+ITM-00630,Item_630,Electronics,Brand_2,box,Description for Item_630,No
+ITM-00631,Item_631,Electronics,Brand_32,kg,Description for Item_631,No
+ITM-00632,Item_632,Furniture,Brand_48,pcs,Description for Item_632,No
+ITM-00633,Item_633,Electronics,Brand_31,liters,Description for Item_633,No
+ITM-00634,Item_634,Furniture,Brand_42,liters,Description for Item_634,No
+ITM-00635,Item_635,Packaging,Brand_18,kg,Description for Item_635,No
+ITM-00636,Item_636,Packaging,Brand_22,pcs,Description for Item_636,No
+ITM-00637,Item_637,Furniture,Brand_33,box,Description for Item_637,No
+ITM-00638,Item_638,Office Supplies,Brand_3,pcs,Description for Item_638,No
+ITM-00639,Item_639,Office Supplies,Brand_22,liters,Description for Item_639,No
+ITM-00640,Item_640,Furniture,Brand_35,liters,Description for Item_640,No
+ITM-00641,Item_641,Office Supplies,Brand_11,pcs,Description for Item_641,No
+ITM-00642,Item_642,MRO,Brand_8,pcs,Description for Item_642,No
+ITM-00643,Item_643,Packaging,Brand_23,kg,Description for Item_643,Yes
+ITM-00644,Item_644,Packaging,Brand_13,box,Description for Item_644,No
+ITM-00645,Item_645,MRO,Brand_48,pcs,Description for Item_645,No
+ITM-00646,Item_646,Packaging,Brand_27,pcs,Description for Item_646,Yes
+ITM-00647,Item_647,MRO,Brand_39,kg,Description for Item_647,No
+ITM-00648,Item_648,Packaging,Brand_43,pcs,Description for Item_648,No
+ITM-00649,Item_649,Office Supplies,Brand_48,box,Description for Item_649,No
+ITM-00650,Item_650,Furniture,Brand_18,pcs,Description for Item_650,No
+ITM-00651,Item_651,Electronics,Brand_14,pcs,Description for Item_651,No
+ITM-00652,Item_652,Office Supplies,Brand_1,pcs,Description for Item_652,No
+ITM-00653,Item_653,Electronics,Brand_21,liters,Description for Item_653,No
+ITM-00654,Item_654,Packaging,Brand_47,pcs,Description for Item_654,No
+ITM-00655,Item_655,Furniture,Brand_13,liters,Description for Item_655,No
+ITM-00656,Item_656,Office Supplies,Brand_47,box,Description for Item_656,No
+ITM-00657,Item_657,MRO,Brand_43,liters,Description for Item_657,Yes
+ITM-00658,Item_658,Electronics,Brand_26,pcs,Description for Item_658,No
+ITM-00659,Item_659,Furniture,Brand_2,pcs,Description for Item_659,No
+ITM-00660,Item_660,MRO,Brand_38,box,Description for Item_660,No
+ITM-00661,Item_661,Packaging,Brand_23,box,Description for Item_661,No
+ITM-00662,Item_662,Packaging,Brand_49,liters,Description for Item_662,No
+ITM-00663,Item_663,MRO,Brand_46,liters,Description for Item_663,No
+ITM-00664,Item_664,Packaging,Brand_41,kg,Description for Item_664,No
+ITM-00665,Item_665,Packaging,Brand_34,pcs,Description for Item_665,No
+ITM-00666,Item_666,Electronics,Brand_45,box,Description for Item_666,No
+ITM-00667,Item_667,Furniture,Brand_31,pcs,Description for Item_667,No
+ITM-00668,Item_668,MRO,Brand_26,box,Description for Item_668,No
+ITM-00669,Item_669,MRO,Brand_3,box,Description for Item_669,No
+ITM-00670,Item_670,Packaging,Brand_14,kg,Description for Item_670,No
+ITM-00671,Item_671,Office Supplies,Brand_16,box,Description for Item_671,Yes
+ITM-00672,Item_672,Furniture,Brand_19,liters,Description for Item_672,No
+ITM-00673,Item_673,Furniture,Brand_13,liters,Description for Item_673,No
+ITM-00674,Item_674,Packaging,Brand_48,liters,Description for Item_674,No
+ITM-00675,Item_675,Furniture,Brand_39,kg,Description for Item_675,No
+ITM-00676,Item_676,Packaging,Brand_23,liters,Description for Item_676,No
+ITM-00677,Item_677,Electronics,Brand_2,box,Description for Item_677,No
+ITM-00678,Item_678,Electronics,Brand_45,kg,Description for Item_678,No
+ITM-00679,Item_679,MRO,Brand_25,box,Description for Item_679,No
+ITM-00680,Item_680,Office Supplies,Brand_42,kg,Description for Item_680,No
+ITM-00681,Item_681,Packaging,Brand_33,kg,Description for Item_681,No
+ITM-00682,Item_682,MRO,Brand_44,kg,Description for Item_682,No
+ITM-00683,Item_683,Electronics,Brand_36,liters,Description for Item_683,No
+ITM-00684,Item_684,Electronics,Brand_41,kg,Description for Item_684,No
+ITM-00685,Item_685,MRO,Brand_39,box,Description for Item_685,No
+ITM-00686,Item_686,Packaging,Brand_28,pcs,Description for Item_686,No
+ITM-00687,Item_687,Packaging,Brand_50,box,Description for Item_687,Yes
+ITM-00688,Item_688,Electronics,Brand_2,box,Description for Item_688,No
+ITM-00689,Item_689,Furniture,Brand_20,liters,Description for Item_689,No
+ITM-00690,Item_690,Office Supplies,Brand_27,box,Description for Item_690,No
+ITM-00691,Item_691,Furniture,Brand_14,pcs,Description for Item_691,No
+ITM-00692,Item_692,Packaging,Brand_8,pcs,Description for Item_692,Yes
+ITM-00693,Item_693,MRO,Brand_33,liters,Description for Item_693,Yes
+ITM-00694,Item_694,Packaging,Brand_1,kg,Description for Item_694,No
+ITM-00695,Item_695,Office Supplies,Brand_3,kg,Description for Item_695,No
+ITM-00696,Item_696,Office Supplies,Brand_10,pcs,Description for Item_696,No
+ITM-00697,Item_697,Electronics,Brand_31,liters,Description for Item_697,No
+ITM-00698,Item_698,Electronics,Brand_8,pcs,Description for Item_698,No
+ITM-00699,Item_699,Furniture,Brand_11,pcs,Description for Item_699,No
+ITM-00700,Item_700,Packaging,Brand_23,kg,Description for Item_700,No
+ITM-00701,Item_701,MRO,Brand_14,kg,Description for Item_701,No
+ITM-00702,Item_702,Packaging,Brand_4,liters,Description for Item_702,No
+ITM-00703,Item_703,Electronics,Brand_43,liters,Description for Item_703,Yes
+ITM-00704,Item_704,MRO,Brand_28,box,Description for Item_704,No
+ITM-00705,Item_705,Office Supplies,Brand_23,kg,Description for Item_705,No
+ITM-00706,Item_706,Packaging,Brand_5,kg,Description for Item_706,No
+ITM-00707,Item_707,MRO,Brand_5,pcs,Description for Item_707,No
+ITM-00708,Item_708,Packaging,Brand_50,kg,Description for Item_708,No
+ITM-00709,Item_709,MRO,Brand_2,pcs,Description for Item_709,No
+ITM-00710,Item_710,Furniture,Brand_46,kg,Description for Item_710,No
+ITM-00711,Item_711,MRO,Brand_47,box,Description for Item_711,No
+ITM-00712,Item_712,MRO,Brand_41,box,Description for Item_712,No
+ITM-00713,Item_713,MRO,Brand_14,pcs,Description for Item_713,No
+ITM-00714,Item_714,Office Supplies,Brand_13,pcs,Description for Item_714,No
+ITM-00715,Item_715,Electronics,Brand_6,box,Description for Item_715,No
+ITM-00716,Item_716,Office Supplies,Brand_41,kg,Description for Item_716,No
+ITM-00717,Item_717,Furniture,Brand_34,liters,Description for Item_717,No
+ITM-00718,Item_718,MRO,Brand_11,liters,Description for Item_718,No
+ITM-00719,Item_719,Electronics,Brand_22,pcs,Description for Item_719,Yes
+ITM-00720,Item_720,Office Supplies,Brand_15,liters,Description for Item_720,No
+ITM-00721,Item_721,Office Supplies,Brand_7,pcs,Description for Item_721,No
+ITM-00722,Item_722,MRO,Brand_22,pcs,Description for Item_722,No
+ITM-00723,Item_723,Packaging,Brand_10,liters,Description for Item_723,No
+ITM-00724,Item_724,Packaging,Brand_42,kg,Description for Item_724,No
+ITM-00725,Item_725,MRO,Brand_30,liters,Description for Item_725,No
+ITM-00726,Item_726,Office Supplies,Brand_13,kg,Description for Item_726,No
+ITM-00727,Item_727,MRO,Brand_8,liters,Description for Item_727,No
+ITM-00728,Item_728,Office Supplies,Brand_47,liters,Description for Item_728,No
+ITM-00729,Item_729,Furniture,Brand_35,liters,Description for Item_729,No
+ITM-00730,Item_730,MRO,Brand_44,pcs,Description for Item_730,No
+ITM-00731,Item_731,Electronics,Brand_40,liters,Description for Item_731,No
+ITM-00732,Item_732,Packaging,Brand_17,box,Description for Item_732,No
+ITM-00733,Item_733,Electronics,Brand_9,kg,Description for Item_733,No
+ITM-00734,Item_734,MRO,Brand_16,kg,Description for Item_734,No
+ITM-00735,Item_735,Packaging,Brand_25,liters,Description for Item_735,No
+ITM-00736,Item_736,MRO,Brand_7,liters,Description for Item_736,No
+ITM-00737,Item_737,Office Supplies,Brand_12,pcs,Description for Item_737,No
+ITM-00738,Item_738,Packaging,Brand_11,liters,Description for Item_738,No
+ITM-00739,Item_739,MRO,Brand_16,box,Description for Item_739,No
+ITM-00740,Item_740,Packaging,Brand_29,box,Description for Item_740,Yes
+ITM-00741,Item_741,Electronics,Brand_39,kg,Description for Item_741,No
+ITM-00742,Item_742,Office Supplies,Brand_6,liters,Description for Item_742,No
+ITM-00743,Item_743,MRO,Brand_45,box,Description for Item_743,No
+ITM-00744,Item_744,Electronics,Brand_31,liters,Description for Item_744,No
+ITM-00745,Item_745,Packaging,Brand_5,liters,Description for Item_745,No
+ITM-00746,Item_746,Office Supplies,Brand_42,pcs,Description for Item_746,No
+ITM-00747,Item_747,Packaging,Brand_28,liters,Description for Item_747,No
+ITM-00748,Item_748,Office Supplies,Brand_46,pcs,Description for Item_748,No
+ITM-00749,Item_749,Office Supplies,Brand_3,kg,Description for Item_749,No
+ITM-00750,Item_750,MRO,Brand_12,box,Description for Item_750,Yes
+ITM-00751,Item_751,MRO,Brand_41,pcs,Description for Item_751,No
+ITM-00752,Item_752,Packaging,Brand_17,box,Description for Item_752,No
+ITM-00753,Item_753,Electronics,Brand_7,box,Description for Item_753,No
+ITM-00754,Item_754,Electronics,Brand_21,pcs,Description for Item_754,No
+ITM-00755,Item_755,Packaging,Brand_43,liters,Description for Item_755,No
+ITM-00756,Item_756,Furniture,Brand_1,liters,Description for Item_756,No
+ITM-00757,Item_757,Furniture,Brand_8,pcs,Description for Item_757,Yes
+ITM-00758,Item_758,Packaging,Brand_48,pcs,Description for Item_758,No
+ITM-00759,Item_759,Furniture,Brand_50,kg,Description for Item_759,No
+ITM-00760,Item_760,Office Supplies,Brand_48,pcs,Description for Item_760,No
+ITM-00761,Item_761,Office Supplies,Brand_36,box,Description for Item_761,No
+ITM-00762,Item_762,MRO,Brand_27,kg,Description for Item_762,No
+ITM-00763,Item_763,Packaging,Brand_19,pcs,Description for Item_763,No
+ITM-00764,Item_764,Packaging,Brand_8,box,Description for Item_764,No
+ITM-00765,Item_765,Office Supplies,Brand_34,box,Description for Item_765,No
+ITM-00766,Item_766,Packaging,Brand_4,kg,Description for Item_766,No
+ITM-00767,Item_767,Packaging,Brand_49,box,Description for Item_767,No
+ITM-00768,Item_768,Electronics,Brand_14,kg,Description for Item_768,No
+ITM-00769,Item_769,Furniture,Brand_21,liters,Description for Item_769,Yes
+ITM-00770,Item_770,Electronics,Brand_2,pcs,Description for Item_770,No
+ITM-00771,Item_771,Electronics,Brand_32,liters,Description for Item_771,No
+ITM-00772,Item_772,Furniture,Brand_30,liters,Description for Item_772,No
+ITM-00773,Item_773,Electronics,Brand_26,pcs,Description for Item_773,No
+ITM-00774,Item_774,Packaging,Brand_46,box,Description for Item_774,No
+ITM-00775,Item_775,Packaging,Brand_13,box,Description for Item_775,No
+ITM-00776,Item_776,Packaging,Brand_1,liters,Description for Item_776,No
+ITM-00777,Item_777,Office Supplies,Brand_46,kg,Description for Item_777,No
+ITM-00778,Item_778,Office Supplies,Brand_43,kg,Description for Item_778,Yes
+ITM-00779,Item_779,MRO,Brand_8,liters,Description for Item_779,No
+ITM-00780,Item_780,Electronics,Brand_45,liters,Description for Item_780,No
+ITM-00781,Item_781,Packaging,Brand_6,kg,Description for Item_781,No
+ITM-00782,Item_782,MRO,Brand_41,kg,Description for Item_782,No
+ITM-00783,Item_783,Packaging,Brand_21,pcs,Description for Item_783,No
+ITM-00784,Item_784,Office Supplies,Brand_50,pcs,Description for Item_784,No
+ITM-00785,Item_785,Office Supplies,Brand_50,box,Description for Item_785,No
+ITM-00786,Item_786,Office Supplies,Brand_46,box,Description for Item_786,No
+ITM-00787,Item_787,Office Supplies,Brand_17,liters,Description for Item_787,No
+ITM-00788,Item_788,Office Supplies,Brand_24,pcs,Description for Item_788,Yes
+ITM-00789,Item_789,MRO,Brand_27,pcs,Description for Item_789,No
+ITM-00790,Item_790,Electronics,Brand_50,liters,Description for Item_790,Yes
+ITM-00791,Item_791,Electronics,Brand_21,pcs,Description for Item_791,No
+ITM-00792,Item_792,Packaging,Brand_7,box,Description for Item_792,No
+ITM-00793,Item_793,Electronics,Brand_50,pcs,Description for Item_793,No
+ITM-00794,Item_794,MRO,Brand_3,box,Description for Item_794,No
+ITM-00795,Item_795,Furniture,Brand_46,kg,Description for Item_795,No
+ITM-00796,Item_796,MRO,Brand_47,liters,Description for Item_796,No
+ITM-00797,Item_797,Electronics,Brand_30,pcs,Description for Item_797,No
+ITM-00798,Item_798,Electronics,Brand_48,box,Description for Item_798,No
+ITM-00799,Item_799,Electronics,Brand_7,kg,Description for Item_799,No
+ITM-00800,Item_800,Office Supplies,Brand_17,kg,Description for Item_800,No
+ITM-00801,Item_801,Electronics,Brand_6,pcs,Description for Item_801,No
+ITM-00802,Item_802,Furniture,Brand_37,liters,Description for Item_802,No
+ITM-00803,Item_803,Electronics,Brand_19,liters,Description for Item_803,No
+ITM-00804,Item_804,Furniture,Brand_15,kg,Description for Item_804,Yes
+ITM-00805,Item_805,MRO,Brand_23,pcs,Description for Item_805,No
+ITM-00806,Item_806,Furniture,Brand_37,pcs,Description for Item_806,No
+ITM-00807,Item_807,Office Supplies,Brand_46,box,Description for Item_807,Yes
+ITM-00808,Item_808,Packaging,Brand_50,pcs,Description for Item_808,No
+ITM-00809,Item_809,Furniture,Brand_23,box,Description for Item_809,No
+ITM-00810,Item_810,MRO,Brand_32,pcs,Description for Item_810,No
+ITM-00811,Item_811,Furniture,Brand_17,kg,Description for Item_811,No
+ITM-00812,Item_812,Office Supplies,Brand_32,box,Description for Item_812,No
+ITM-00813,Item_813,Packaging,Brand_31,box,Description for Item_813,No
+ITM-00814,Item_814,Furniture,Brand_31,liters,Description for Item_814,No
+ITM-00815,Item_815,Office Supplies,Brand_2,pcs,Description for Item_815,Yes
+ITM-00816,Item_816,Packaging,Brand_49,kg,Description for Item_816,No
+ITM-00817,Item_817,Furniture,Brand_5,kg,Description for Item_817,Yes
+ITM-00818,Item_818,Packaging,Brand_29,kg,Description for Item_818,No
+ITM-00819,Item_819,Office Supplies,Brand_23,kg,Description for Item_819,No
+ITM-00820,Item_820,Furniture,Brand_26,pcs,Description for Item_820,Yes
+ITM-00821,Item_821,Electronics,Brand_40,kg,Description for Item_821,Yes
+ITM-00822,Item_822,Electronics,Brand_23,liters,Description for Item_822,No
+ITM-00823,Item_823,Electronics,Brand_34,pcs,Description for Item_823,No
+ITM-00824,Item_824,Electronics,Brand_46,pcs,Description for Item_824,No
+ITM-00825,Item_825,Packaging,Brand_34,pcs,Description for Item_825,Yes
+ITM-00826,Item_826,Furniture,Brand_25,pcs,Description for Item_826,No
+ITM-00827,Item_827,Office Supplies,Brand_30,pcs,Description for Item_827,No
+ITM-00828,Item_828,Electronics,Brand_29,box,Description for Item_828,No
+ITM-00829,Item_829,MRO,Brand_40,pcs,Description for Item_829,No
+ITM-00830,Item_830,Furniture,Brand_17,kg,Description for Item_830,No
+ITM-00831,Item_831,Packaging,Brand_21,box,Description for Item_831,No
+ITM-00832,Item_832,Furniture,Brand_13,kg,Description for Item_832,No
+ITM-00833,Item_833,Electronics,Brand_19,box,Description for Item_833,No
+ITM-00834,Item_834,Packaging,Brand_41,kg,Description for Item_834,No
+ITM-00835,Item_835,Furniture,Brand_2,liters,Description for Item_835,No
+ITM-00836,Item_836,Packaging,Brand_6,liters,Description for Item_836,No
+ITM-00837,Item_837,Electronics,Brand_5,kg,Description for Item_837,No
+ITM-00838,Item_838,Electronics,Brand_27,box,Description for Item_838,No
+ITM-00839,Item_839,Furniture,Brand_24,liters,Description for Item_839,Yes
+ITM-00840,Item_840,Packaging,Brand_22,liters,Description for Item_840,No
+ITM-00841,Item_841,Electronics,Brand_29,kg,Description for Item_841,No
+ITM-00842,Item_842,Office Supplies,Brand_1,liters,Description for Item_842,No
+ITM-00843,Item_843,Electronics,Brand_45,liters,Description for Item_843,No
+ITM-00844,Item_844,Furniture,Brand_36,kg,Description for Item_844,Yes
+ITM-00845,Item_845,Electronics,Brand_10,box,Description for Item_845,No
+ITM-00846,Item_846,Electronics,Brand_8,box,Description for Item_846,No
+ITM-00847,Item_847,Packaging,Brand_22,liters,Description for Item_847,No
+ITM-00848,Item_848,Office Supplies,Brand_3,kg,Description for Item_848,No
+ITM-00849,Item_849,Packaging,Brand_40,box,Description for Item_849,No
+ITM-00850,Item_850,Office Supplies,Brand_40,liters,Description for Item_850,No
+ITM-00851,Item_851,Packaging,Brand_6,pcs,Description for Item_851,No
+ITM-00852,Item_852,Electronics,Brand_15,pcs,Description for Item_852,No
+ITM-00853,Item_853,Packaging,Brand_10,box,Description for Item_853,No
+ITM-00854,Item_854,Packaging,Brand_26,pcs,Description for Item_854,No
+ITM-00855,Item_855,Electronics,Brand_21,kg,Description for Item_855,No
+ITM-00856,Item_856,Electronics,Brand_3,box,Description for Item_856,No
+ITM-00857,Item_857,MRO,Brand_36,liters,Description for Item_857,No
+ITM-00858,Item_858,Furniture,Brand_21,liters,Description for Item_858,No
+ITM-00859,Item_859,Packaging,Brand_12,box,Description for Item_859,No
+ITM-00860,Item_860,Office Supplies,Brand_50,kg,Description for Item_860,No
+ITM-00861,Item_861,MRO,Brand_47,kg,Description for Item_861,No
+ITM-00862,Item_862,Office Supplies,Brand_38,pcs,Description for Item_862,No
+ITM-00863,Item_863,Packaging,Brand_17,kg,Description for Item_863,Yes
+ITM-00864,Item_864,Furniture,Brand_15,liters,Description for Item_864,Yes
+ITM-00865,Item_865,Electronics,Brand_45,kg,Description for Item_865,No
+ITM-00866,Item_866,Office Supplies,Brand_32,liters,Description for Item_866,No
+ITM-00867,Item_867,Office Supplies,Brand_2,box,Description for Item_867,No
+ITM-00868,Item_868,Packaging,Brand_47,box,Description for Item_868,Yes
+ITM-00869,Item_869,Packaging,Brand_41,kg,Description for Item_869,No
+ITM-00870,Item_870,Furniture,Brand_31,pcs,Description for Item_870,No
+ITM-00871,Item_871,MRO,Brand_8,box,Description for Item_871,Yes
+ITM-00872,Item_872,Electronics,Brand_16,kg,Description for Item_872,No
+ITM-00873,Item_873,Packaging,Brand_17,kg,Description for Item_873,No
+ITM-00874,Item_874,MRO,Brand_18,kg,Description for Item_874,No
+ITM-00875,Item_875,Electronics,Brand_38,kg,Description for Item_875,Yes
+ITM-00876,Item_876,MRO,Brand_39,kg,Description for Item_876,Yes
+ITM-00877,Item_877,Packaging,Brand_24,box,Description for Item_877,Yes
+ITM-00878,Item_878,Electronics,Brand_16,liters,Description for Item_878,No
+ITM-00879,Item_879,Electronics,Brand_43,kg,Description for Item_879,No
+ITM-00880,Item_880,Packaging,Brand_35,pcs,Description for Item_880,No
+ITM-00881,Item_881,Electronics,Brand_50,pcs,Description for Item_881,No
+ITM-00882,Item_882,Office Supplies,Brand_5,kg,Description for Item_882,No
+ITM-00883,Item_883,Furniture,Brand_14,kg,Description for Item_883,No
+ITM-00884,Item_884,Packaging,Brand_45,box,Description for Item_884,No
+ITM-00885,Item_885,Packaging,Brand_18,kg,Description for Item_885,No
+ITM-00886,Item_886,Electronics,Brand_16,pcs,Description for Item_886,No
+ITM-00887,Item_887,Packaging,Brand_40,liters,Description for Item_887,No
+ITM-00888,Item_888,MRO,Brand_15,pcs,Description for Item_888,No
+ITM-00889,Item_889,Electronics,Brand_7,pcs,Description for Item_889,No
+ITM-00890,Item_890,Packaging,Brand_17,box,Description for Item_890,Yes
+ITM-00891,Item_891,Furniture,Brand_12,box,Description for Item_891,No
+ITM-00892,Item_892,Office Supplies,Brand_28,liters,Description for Item_892,No
+ITM-00893,Item_893,Office Supplies,Brand_35,pcs,Description for Item_893,No
+ITM-00894,Item_894,Electronics,Brand_50,kg,Description for Item_894,Yes
+ITM-00895,Item_895,Packaging,Brand_1,kg,Description for Item_895,Yes
+ITM-00896,Item_896,MRO,Brand_36,box,Description for Item_896,No
+ITM-00897,Item_897,Furniture,Brand_13,liters,Description for Item_897,No
+ITM-00898,Item_898,Packaging,Brand_31,box,Description for Item_898,No
+ITM-00899,Item_899,Electronics,Brand_7,liters,Description for Item_899,No
+ITM-00900,Item_900,Electronics,Brand_26,box,Description for Item_900,No
+ITM-00901,Item_901,Furniture,Brand_6,liters,Description for Item_901,No
+ITM-00902,Item_902,MRO,Brand_45,pcs,Description for Item_902,No
+ITM-00903,Item_903,Furniture,Brand_29,kg,Description for Item_903,No
+ITM-00904,Item_904,Packaging,Brand_12,kg,Description for Item_904,No
+ITM-00905,Item_905,Office Supplies,Brand_5,liters,Description for Item_905,No
+ITM-00906,Item_906,Office Supplies,Brand_41,pcs,Description for Item_906,No
+ITM-00907,Item_907,Office Supplies,Brand_10,kg,Description for Item_907,No
+ITM-00908,Item_908,Furniture,Brand_5,liters,Description for Item_908,No
+ITM-00909,Item_909,Office Supplies,Brand_4,liters,Description for Item_909,No
+ITM-00910,Item_910,MRO,Brand_14,kg,Description for Item_910,No
+ITM-00911,Item_911,Office Supplies,Brand_14,kg,Description for Item_911,No
+ITM-00912,Item_912,MRO,Brand_47,kg,Description for Item_912,No
+ITM-00913,Item_913,Electronics,Brand_30,box,Description for Item_913,No
+ITM-00914,Item_914,Office Supplies,Brand_19,box,Description for Item_914,No
+ITM-00915,Item_915,Office Supplies,Brand_37,kg,Description for Item_915,No
+ITM-00916,Item_916,Furniture,Brand_43,kg,Description for Item_916,No
+ITM-00917,Item_917,MRO,Brand_29,kg,Description for Item_917,No
+ITM-00918,Item_918,Office Supplies,Brand_13,liters,Description for Item_918,No
+ITM-00919,Item_919,Electronics,Brand_5,box,Description for Item_919,No
+ITM-00920,Item_920,Furniture,Brand_47,liters,Description for Item_920,No
+ITM-00921,Item_921,Packaging,Brand_30,pcs,Description for Item_921,No
+ITM-00922,Item_922,Packaging,Brand_46,pcs,Description for Item_922,No
+ITM-00923,Item_923,Packaging,Brand_29,pcs,Description for Item_923,No
+ITM-00924,Item_924,Electronics,Brand_33,liters,Description for Item_924,No
+ITM-00925,Item_925,Office Supplies,Brand_12,kg,Description for Item_925,No
+ITM-00926,Item_926,Office Supplies,Brand_13,box,Description for Item_926,No
+ITM-00927,Item_927,Furniture,Brand_41,pcs,Description for Item_927,No
+ITM-00928,Item_928,Packaging,Brand_47,pcs,Description for Item_928,No
+ITM-00929,Item_929,Office Supplies,Brand_37,liters,Description for Item_929,No
+ITM-00930,Item_930,Electronics,Brand_14,kg,Description for Item_930,No
+ITM-00931,Item_931,Furniture,Brand_36,pcs,Description for Item_931,No
+ITM-00932,Item_932,Furniture,Brand_1,liters,Description for Item_932,No
+ITM-00933,Item_933,Electronics,Brand_30,kg,Description for Item_933,No
+ITM-00934,Item_934,Packaging,Brand_4,box,Description for Item_934,No
+ITM-00935,Item_935,Packaging,Brand_1,pcs,Description for Item_935,No
+ITM-00936,Item_936,Furniture,Brand_6,liters,Description for Item_936,No
+ITM-00937,Item_937,Packaging,Brand_23,pcs,Description for Item_937,No
+ITM-00938,Item_938,Office Supplies,Brand_43,box,Description for Item_938,No
+ITM-00939,Item_939,Furniture,Brand_28,kg,Description for Item_939,No
+ITM-00940,Item_940,MRO,Brand_48,liters,Description for Item_940,No
+ITM-00941,Item_941,Electronics,Brand_50,box,Description for Item_941,No
+ITM-00942,Item_942,Packaging,Brand_35,box,Description for Item_942,No
+ITM-00943,Item_943,Packaging,Brand_18,pcs,Description for Item_943,No
+ITM-00944,Item_944,Furniture,Brand_5,kg,Description for Item_944,No
+ITM-00945,Item_945,Furniture,Brand_28,liters,Description for Item_945,No
+ITM-00946,Item_946,Packaging,Brand_10,liters,Description for Item_946,No
+ITM-00947,Item_947,Packaging,Brand_3,box,Description for Item_947,No
+ITM-00948,Item_948,Packaging,Brand_11,kg,Description for Item_948,No
+ITM-00949,Item_949,MRO,Brand_11,kg,Description for Item_949,No
+ITM-00950,Item_950,Packaging,Brand_31,liters,Description for Item_950,No
+ITM-00951,Item_951,MRO,Brand_19,kg,Description for Item_951,No
+ITM-00952,Item_952,Electronics,Brand_26,box,Description for Item_952,No
+ITM-00953,Item_953,Office Supplies,Brand_26,liters,Description for Item_953,No
+ITM-00954,Item_954,Electronics,Brand_39,kg,Description for Item_954,No
+ITM-00955,Item_955,Office Supplies,Brand_46,box,Description for Item_955,No
+ITM-00956,Item_956,Electronics,Brand_17,box,Description for Item_956,No
+ITM-00957,Item_957,Packaging,Brand_24,kg,Description for Item_957,No
+ITM-00958,Item_958,Electronics,Brand_43,box,Description for Item_958,No
+ITM-00959,Item_959,Packaging,Brand_12,pcs,Description for Item_959,No
+ITM-00960,Item_960,MRO,Brand_15,liters,Description for Item_960,No
+ITM-00961,Item_961,Electronics,Brand_50,pcs,Description for Item_961,No
+ITM-00962,Item_962,Office Supplies,Brand_33,liters,Description for Item_962,Yes
+ITM-00963,Item_963,Electronics,Brand_3,pcs,Description for Item_963,No
+ITM-00964,Item_964,Electronics,Brand_2,kg,Description for Item_964,Yes
+ITM-00965,Item_965,Office Supplies,Brand_15,box,Description for Item_965,No
+ITM-00966,Item_966,MRO,Brand_15,kg,Description for Item_966,No
+ITM-00967,Item_967,MRO,Brand_43,liters,Description for Item_967,No
+ITM-00968,Item_968,Packaging,Brand_16,box,Description for Item_968,No
+ITM-00969,Item_969,Office Supplies,Brand_31,kg,Description for Item_969,No
+ITM-00970,Item_970,Furniture,Brand_5,box,Description for Item_970,No
+ITM-00971,Item_971,MRO,Brand_1,liters,Description for Item_971,No
+ITM-00972,Item_972,Furniture,Brand_47,box,Description for Item_972,No
+ITM-00973,Item_973,MRO,Brand_39,pcs,Description for Item_973,No
+ITM-00974,Item_974,Electronics,Brand_35,box,Description for Item_974,No
+ITM-00975,Item_975,Electronics,Brand_14,liters,Description for Item_975,No
+ITM-00976,Item_976,Electronics,Brand_10,kg,Description for Item_976,No
+ITM-00977,Item_977,Electronics,Brand_17,kg,Description for Item_977,No
+ITM-00978,Item_978,MRO,Brand_45,liters,Description for Item_978,No
+ITM-00979,Item_979,Electronics,Brand_17,box,Description for Item_979,No
+ITM-00980,Item_980,MRO,Brand_26,liters,Description for Item_980,No
+ITM-00981,Item_981,Office Supplies,Brand_41,kg,Description for Item_981,No
+ITM-00982,Item_982,MRO,Brand_19,pcs,Description for Item_982,No
+ITM-00983,Item_983,MRO,Brand_10,kg,Description for Item_983,No
+ITM-00984,Item_984,Electronics,Brand_24,pcs,Description for Item_984,Yes
+ITM-00985,Item_985,Office Supplies,Brand_35,kg,Description for Item_985,No
+ITM-00986,Item_986,Packaging,Brand_50,kg,Description for Item_986,No
+ITM-00987,Item_987,Furniture,Brand_35,liters,Description for Item_987,No
+ITM-00988,Item_988,Furniture,Brand_13,box,Description for Item_988,No
+ITM-00989,Item_989,Office Supplies,Brand_8,pcs,Description for Item_989,No
+ITM-00990,Item_990,Furniture,Brand_26,box,Description for Item_990,No
+ITM-00991,Item_991,MRO,Brand_20,liters,Description for Item_991,No
+ITM-00992,Item_992,MRO,Brand_39,box,Description for Item_992,No
+ITM-00993,Item_993,Electronics,Brand_44,pcs,Description for Item_993,No
+ITM-00994,Item_994,Electronics,Brand_29,pcs,Description for Item_994,No
+ITM-00995,Item_995,Office Supplies,Brand_8,box,Description for Item_995,No
+ITM-00996,Item_996,Electronics,Brand_23,liters,Description for Item_996,No
+ITM-00997,Item_997,Packaging,Brand_49,box,Description for Item_997,No
+ITM-00998,Item_998,MRO,Brand_6,kg,Description for Item_998,No
+ITM-00999,Item_999,Packaging,Brand_8,pcs,Description for Item_999,Yes
+ITM-01000,Item_1000,Packaging,Brand_26,kg,Description for Item_1000,No
